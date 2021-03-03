@@ -1,18 +1,10 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "cc9b32b323a6447a",
+    "id": "e58c785bdb5066d4",
     "type": "split",
     "children": [
       {
-        "id": "1996f55b53ffefa3",
-=======
-    "id": "f6c3a5cb6b083e00",
-    "type": "split",
-    "children": [
-      {
-        "id": "14d4082ca0f7f629",
->>>>>>> 7671e2a40005a5e75db8b6e1d424a21f8f8ccb0a
+        "id": "04dd89565b94d5c6",
         "type": "leaf",
         "active": true,
         "state": {
@@ -27,27 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "717396f2ccbe86bf",
+    "id": "43c3b8e5be76d6fb",
     "type": "split",
     "children": [
       {
-        "id": "1ebd77618d71a171",
+        "id": "ad170578e43d12be",
         "type": "tabs",
         "children": [
           {
-            "id": "c17d1bee4a3faa93",
-=======
-    "id": "19bcfe608f03bad3",
-    "type": "split",
-    "children": [
-      {
-        "id": "037e6d1f5b41ddf5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c08e759ca60f3bcf",
->>>>>>> 7671e2a40005a5e75db8b6e1d424a21f8f8ccb0a
+            "id": "b7b2db30129b80b7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,11 +35,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "8e8789d70f19a489",
-=======
-            "id": "81294fbf00a830a0",
->>>>>>> 7671e2a40005a5e75db8b6e1d424a21f8f8ccb0a
+            "id": "3bc9f1775b787899",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,27 +56,15 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "1cd0bc073bbfb26c",
+    "id": "b0584a1bfe7b6a35",
     "type": "split",
     "children": [
       {
-        "id": "e55dac08bea87f03",
+        "id": "8c21ac9e7ffbd8b9",
         "type": "tabs",
         "children": [
           {
-            "id": "a235559929120c44",
-=======
-    "id": "1329ad9f5d47c484",
-    "type": "split",
-    "children": [
-      {
-        "id": "db9db9465211f31d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "58181ce0fa745970",
->>>>>>> 7671e2a40005a5e75db8b6e1d424a21f8f8ccb0a
+            "id": "80928bcdfbec2064",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -122,11 +86,6 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
     "Periodic Table.md"
-=======
-    "Periodic Table.md",
-    "README.md"
->>>>>>> 7671e2a40005a5e75db8b6e1d424a21f8f8ccb0a
   ]
 }
