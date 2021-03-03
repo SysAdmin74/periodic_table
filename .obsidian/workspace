@@ -1,10 +1,18 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "cc9b32b323a6447a",
     "type": "split",
     "children": [
       {
         "id": "1996f55b53ffefa3",
+=======
+    "id": "f6c3a5cb6b083e00",
+    "type": "split",
+    "children": [
+      {
+        "id": "14d4082ca0f7f629",
+>>>>>>> 7671e2a40005a5e75db8b6e1d424a21f8f8ccb0a
         "type": "leaf",
         "active": true,
         "state": {
@@ -19,6 +27,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "717396f2ccbe86bf",
     "type": "split",
     "children": [
@@ -28,6 +37,17 @@
         "children": [
           {
             "id": "c17d1bee4a3faa93",
+=======
+    "id": "19bcfe608f03bad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "037e6d1f5b41ddf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c08e759ca60f3bcf",
+>>>>>>> 7671e2a40005a5e75db8b6e1d424a21f8f8ccb0a
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +55,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "8e8789d70f19a489",
+=======
+            "id": "81294fbf00a830a0",
+>>>>>>> 7671e2a40005a5e75db8b6e1d424a21f8f8ccb0a
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,6 +80,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "1cd0bc073bbfb26c",
     "type": "split",
     "children": [
@@ -65,6 +90,17 @@
         "children": [
           {
             "id": "a235559929120c44",
+=======
+    "id": "1329ad9f5d47c484",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9db9465211f31d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58181ce0fa745970",
+>>>>>>> 7671e2a40005a5e75db8b6e1d424a21f8f8ccb0a
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -86,6 +122,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Periodic Table.md"
+=======
+    "Periodic Table.md",
+    "README.md"
+>>>>>>> 7671e2a40005a5e75db8b6e1d424a21f8f8ccb0a
   ]
 }
