@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "f6c3a5cb6b083e00",
+    "type": "split",
+    "children": [
+      {
+        "id": "14d4082ca0f7f629",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Periodic Table.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19bcfe608f03bad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "037e6d1f5b41ddf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c08e759ca60f3bcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "81294fbf00a830a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1329ad9f5d47c484",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9db9465211f31d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58181ce0fa745970",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Periodic Table.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Periodic Table.md",
+    "README.md"
+  ]
+}
