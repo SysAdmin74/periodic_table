@@ -5,3 +5,5 @@ Sodium was first isolated by Humphry Davy in 1807 by the electrolysis of sodium 
 Sodium is an essential element for all animals and some plants. Sodium ions are the major cation in the extracellular fluid (ECF) and as such are the major contributor to the ECF osmotic pressure and ECF compartment volume.[citation needed] Loss of water from the ECF compartment increases the sodium concentration, a condition called hypernatremia. Isotonic loss of water and sodium from the ECF compartment decreases the size of that compartment in a condition called ECF hypovolemia.
 
 By means of the sodium-potassium pump, living human cells pump three sodium ions out of the cell in exchange for two potassium ions pumped in; comparing ion concentrations across the cell membrane, inside to outside, potassium measures about 40:1, and sodium, about 1:10. In nerve cells, the electrical charge across the cell membrane enables transmission of the nerve impulse—an action potential—when the charge is dissipated; sodium plays a key role in that activity. 
+
+Cool fact: Toss one cube of sodium in the water and observer the reaction. XD
