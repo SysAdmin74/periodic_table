@@ -5,12 +5,12 @@
 Here will be a table for all element.
 
 
-|  1 |   |   |   |   |
-|---|---|---|---|---|
-|H  |   |   |   |   |
-|Li |   |   |   |   |
-|Na |   |   |   |   |
-|K  |   |   |   |   |
-|Rb |   |   |   |   |
-|Cs |   |   |   |   |
-|Fr |   |   |   |   |
+| 1 |   |   |      |   |   |
+|---|---|---|------|---|---| 
+|H  |   |   |      |   |   |
+|Li |Be |   |      |   |   |
+|Na |Mg |   |      |   |   |
+|K  |Ca |Sc |      |Ti |V  |
+|Rb |Sr |Y  |      |Zr |Nb |
+|Cs |Ba |La |58-71 |Hf |Ta |
+|Fr |Ra |Ac |90-103|Rf |Db |
