@@ -14,3 +14,4 @@ Here will be a table for all element.
 |Rb |Sr |Y  |      |Zr |Nb |Mo |Tc |Ru |Rh |Pd |Ag |Cd |In |Sn |Sb |Te |I  |Xe |
 |Cs |Ba |La |58-71 |Hf |Ta |W  |Re |Os |Ir |Pt |Au |Hg |Ti |Pb |Bi |Po |At |Rn |
 |Fr |Ra |Ac |90-103|Rf |Db |Sg |Bh |Hs |Mt |Ds |Rg |Cn |Nh |Fl |Mc |Lv |Ts |Og |
+|   |   |   |
