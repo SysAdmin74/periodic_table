@@ -6,4 +6,4 @@ Sodium is an essential element for all animals and some plants. Sodium ions are 
 
 By means of the sodium-potassium pump, living human cells pump three sodium ions out of the cell in exchange for two potassium ions pumped in; comparing ion concentrations across the cell membrane, inside to outside, potassium measures about 40:1, and sodium, about 1:10. In nerve cells, the electrical charge across the cell membrane enables transmission of the nerve impulse—an action potential—when the charge is dissipated; sodium plays a key role in that activity. 
 
-Cool fact: Toss one cube of sodium in the water and observer the reaction. XD
+Cool fact: Toss one cube of sodium in the water and observe the reaction. XD
