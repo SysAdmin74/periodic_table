@@ -9,8 +9,8 @@ Here will be a table for all element.
 |---|---|---|------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
 |H  |   |   |      |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |Li |Be |   |      |   |   |   |   |   |   |   |   |   |B  |   |   |   |   |   |
-|Na |Mg |   |      |   |   |   |   |   |   |   |   |   |Al |
-|K  |Ca |Sc |      |Ti |V  |Cr |Mn |Fe |Co |Ni |Cu |Zn |Ga |
-|Rb |Sr |Y  |      |Zr |Nb |Mo |Tc |Ru |Rh |Pd |Ag |Cd |In |
-|Cs |Ba |La |58-71 |Hf |Ta |W  |Re |Os |Ir |Pt |Au |Hg |Ti |
-|Fr |Ra |Ac |90-103|Rf |Db |Sg |Bh |Hs |Mt |Ds |Rg |Cn |Nh |
+|Na |Mg |   |      |   |   |   |   |   |   |   |   |   |Al |   |   |   |   |   |
+|K  |Ca |Sc |      |Ti |V  |Cr |Mn |Fe |Co |Ni |Cu |Zn |Ga |   |   |   |   |   |
+|Rb |Sr |Y  |      |Zr |Nb |Mo |Tc |Ru |Rh |Pd |Ag |Cd |In |   |   |   |   |   |
+|Cs |Ba |La |58-71 |Hf |Ta |W  |Re |Os |Ir |Pt |Au |Hg |Ti |   |   |   |   |   |
+|Fr |Ra |Ac |90-103|Rf |Db |Sg |Bh |Hs |Mt |Ds |Rg |Cn |Nh |   |   |   |   |   |
