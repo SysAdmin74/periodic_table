@@ -14,3 +14,4 @@ Here will be a table for all element.
 |Rb |Sr |Y  |      |Zr |Nb |
 |Cs |Ba |La |58-71 |Hf |Ta |
 |Fr |Ra |Ac |90-103|Rf |Db |
+|  	|  	|   |      |   |   |
