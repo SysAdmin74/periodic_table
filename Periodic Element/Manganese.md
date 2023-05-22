@@ -27,8 +27,7 @@ aliases: [Mn]
 | MeltingPoint      | 1519.15          |
 | BoilingPoint      | 2334             |
 | NumberOfIsotopes  | 11               |
-| Discoverer        | "Gahn            |
-| Year              | Scheele"         |
-| SpecificHeat      | 1774             |
-| NumberofShells    | 0.479            |
-| NumberofValence   | 4                |
+| Discoverer        | Gahn, Scheele    |
+| Year              | 1774             |
+| SpecificHeat      | 0.479            |
+| NumberofShells    | 4                |

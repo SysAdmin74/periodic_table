@@ -27,7 +27,7 @@ aliases: [Bh]
 | MeltingPoint      |                           |
 | BoilingPoint      |                           |
 | NumberOfIsotopes  |                           |
-| Discoverer        | Armbruster and M�nzenberg |
+| Discoverer        | Armbruster and Münzenberg |
 | Year              | 1981                      |
 | SpecificHeat      |                           |
 | NumberofShells    | 7                         |

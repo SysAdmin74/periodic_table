@@ -27,7 +27,7 @@ aliases: [Tc]
 | MeltingPoint      | 2473.15           |
 | BoilingPoint      | 5150              |
 | NumberOfIsotopes  | 23                |
-| Discoverer        | Perrier and Segr� |
+| Discoverer        | Perrier and Segrè |
 | Year              | 1937              |
 | SpecificHeat      |                   |
 | NumberofShells    | 5                 |
